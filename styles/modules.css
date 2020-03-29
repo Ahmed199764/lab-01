@@ -1,0 +1,71 @@
+#a{
+    background-color: red;
+}
+
+#b{
+    background-color: yellow;
+}
+
+#c{
+    background-color: chartreuse;
+}
+
+#d{
+    background-color: blue;
+}
+
+#e{
+    background-color: gold;
+}
+
+#f{
+    background-color: gray;
+}
+
+#g{
+    background-color: green;
+}
+
+#h{
+    background-color: blueviolet;
+}
+
+#i{
+    background-color: purple;
+}
+
+
+@media (min-width: 768px){
+    @media (max-width: 960px) {
+        #a{
+            background-color: cadetblue;
+        }
+    
+        #b{
+            background-color: darkcyan;
+        }
+    
+        #c{
+            background-color: violet;
+        }
+    
+        #d{
+            background-color:aquamarine;
+        }
+    
+        #e{
+            background-color: darkred;
+        }
+        #f{
+            background-color: fuchsia;
+        }
+        #g{
+            background-color: greenyellow;
+        }
+        #h{
+            background-color: darkorange;
+        }
+        #i{
+            background-color: blue;
+        }
+      }}
