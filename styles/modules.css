@@ -69,3 +69,37 @@
             background-color: blue;
         }
       }}
+
+@media (min-width: 961px){        
+    #a{
+        background-color: rgb(229, 151, 151);
+        }
+        
+     #b{
+        background-color: rgb(189, 88, 88);
+        }
+        
+        #c{
+            background-color: rgb(131, 17, 131);
+        }
+        
+        #d{
+            background-color:rgb(23, 97, 72);
+        }
+        
+        #e{
+            background-color: rgb(65, 23, 23);
+        }
+        #f{
+            background-color: rgb(38, 37, 102);
+        }
+        #g{
+            background-color: rgba(148, 158, 8, 0.692);
+        }
+        #h{
+            background-color: rgb(81, 100,0, 25);
+        }
+        #i{
+            background-color: rgb(32, 163, 60);
+        }
+    }
